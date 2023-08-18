@@ -1,0 +1,33 @@
+.bgimg{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVvdyN5S1jE3IAcEYi9upRSQuuZC_8Am5YvWxzn4WWFbsbKQZKtq5SLB3_E0qB1MlBJ9U&usqp=CAU");
+    background-size: cover;
+    height: 200vh;
+    width:100vw;
+}
+.headfirst{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 20px;
+}
+.bgcardcarousel{
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 25px;
+}
+.cardcon{
+    padding: 25px;
+}
+.headsecond{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.paraline{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
